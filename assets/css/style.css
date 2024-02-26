@@ -9,6 +9,7 @@
     align-items: center;
     height: 100vh;
     background-color: papayawhip;
+    background-size: cover;
 }
 .image{
     width: 500px;
@@ -59,20 +60,19 @@ p{
     display: flex;
     margin-top: 30px;
     margin-left: 30px;
-  }
+ }
   
   .time-unit {
     width: 5rem;
     height: 5rem;
     background-color: lightcoral; 
-    background-size: cover;
     border-radius: 4px; 
     padding: 15px;
     margin: 10px; 
     color: white;
     display: grid;
     text-align: center; 
-  }
+}
   
   .number {
     font-size: 2em; 
